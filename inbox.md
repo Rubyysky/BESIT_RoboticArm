@@ -10,3 +10,6 @@
 - Some notes don't end up making sense the next day
 - That's ok, you can just delete them!
   - You can always find them in your git history, if you really need it!
+
+cost
+2nd week mon  may/2/2020 [[2022-05-13]]

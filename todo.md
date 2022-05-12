@@ -1,8 +1,9 @@
 # Todo
 
-You can create todos in Foam.
+steps to do 
 
-- [x] This is an example of a todo list item that's complete
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
+- [x] Finalise the [[Design]]
+- [ ] Build the Core "[[mechanical structure]]"
+- [ ] Test the [[mechanical structure]]
+- [ ] Develop a [[Control system]] based on [[ROS]]
+- [ ] Test the robot 
