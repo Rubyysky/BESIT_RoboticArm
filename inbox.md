@@ -11,6 +11,6 @@
 - That's ok, you can just delete them!
   - You can always find them in your git history, if you really need it!
 
-workdone  
+work on   
 [[2022-05-9]]
 [[2022-05-12]]
