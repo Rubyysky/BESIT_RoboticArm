@@ -1,8 +1,6 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
-
 # Robotic Arm
 
-**👋 Project by B.E.S.I.T Mech 2021-22**
+    Project by B.E.S.I.T Mech 2021-22
 
 ## Getting started
 
@@ -33,22 +31,25 @@ We've created a few Bubbles (Markdown documents) to get you started.
 - [[fund received]] - how much money is collected to project
 
 ---
+
 ## Team Members
 
-   ### Names will be updated soon !
+### Names will be updated soon
+
 ---
 
 In the `docs` directory you can find everything you need to learn the basics of Foam.
 
 # Todo
 
-steps to do 
+steps to do
+
 - [x] fining [[opensouce projects]]
-- [x] Checking the projects 
-- [x] Finalise the [[Design]]
+- [x] Checking the projects
+- [x] Finalise the [Design](Design.md)
 - [ ] Build the Core "[[mechanical structure]]"
 - [ ] Test the [[mechanical structure]]
 - [ ] Develop a [[Control system]] based on [[ROS]]
 - [ ] Test the robot
-- [ ] fixing the error 
-- [ ] report
+- [ ] fixing the error
+- [ ] do report
