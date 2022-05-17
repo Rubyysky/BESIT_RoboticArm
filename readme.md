@@ -8,7 +8,8 @@
 
 This documentation is for recording the data to report and for future open soucing the project.
 
-[[Expenses]]
+### here we useing foam note tacking app
+
 1. If you haven't yet, browse over to the main [Foam documentation](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
 2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
 3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
@@ -23,20 +24,18 @@ To learn more about how to use **Foam**, read the [Recipes](https://foambubble.g
 
 And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
 
-## Using Foam
+## Using this Foam
 
 We've created a few Bubbles (Markdown documents) to get you started.
 
-- [[inbox]] - a place to write down quick notes to be categorized later
-- [[getting-started]] - learn how to use your Foam workspace
-- [[todo]] - a place to keep track of things to do
+- [[journal]] - a place to write down quick notes to be categorized later, based on the date we worked on project
+- [[Expenses]] - how much money is spent on project
+- [[fund received]] - how much money is collected to project
+
+---
+## Team Members
+
+   ### Names will be updated soon !
+---
 
 In the `docs` directory you can find everything you need to learn the basics of Foam.
-
-
-
-## Submitting Issues
-
-As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
-
-> <https://github.com/foambubble/foam>

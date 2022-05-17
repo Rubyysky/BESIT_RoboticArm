@@ -12,7 +12,3 @@
   - You can always find them in your git history, if you really need it!
 
 work on   
-[[2022-05-9]]
-[[2022-05-12]]
-[[2022-05-16]]
-[[2022-05-17]]
