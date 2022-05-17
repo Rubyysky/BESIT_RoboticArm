@@ -1,6 +1,6 @@
 # Expenses
 
-[[2022-05-9]]
+[2022-05-9](journal/2022-05-9.md)
 
 ### For bus 
 - form __Jaya nagar to Town hall__   2*15 = 30
@@ -9,7 +9,7 @@
 - ___Total___ = 70
 ---
 
-[[2022-05-17]]
+[2022-05-17](journal/2022-05-17.md)
 
 ## For Motor
 - Micro Servo MG90S 2*180 = 360
