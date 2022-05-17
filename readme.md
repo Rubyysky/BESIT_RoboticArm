@@ -13,7 +13,16 @@ We've created a few Bubbles (Markdown documents) to get you started.
 
 ## Team Members
 
-### Names will be updated soon
+1. Kamraj
+2. Kumar
+3. Prajwal
+4. Varada
+5. Sunil
+6. Mohammed Sheeraz Meccai
+7. Mohammed Fawaz sheikh K
+8. Sudeep
+9. 9th Member name
+10. 10th Member name
 
 ---
 
