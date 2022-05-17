@@ -39,3 +39,16 @@ We've created a few Bubbles (Markdown documents) to get you started.
 ---
 
 In the `docs` directory you can find everything you need to learn the basics of Foam.
+
+# Todo
+
+steps to do 
+- [x] fining [[opensouce projects]]
+- [x] Checking the projects 
+- [x] Finalise the [[Design]]
+- [ ] Build the Core "[[mechanical structure]]"
+- [ ] Test the [[mechanical structure]]
+- [ ] Develop a [[Control system]] based on [[ROS]]
+- [ ] Test the robot
+- [ ] fixing the error 
+- [ ] report
