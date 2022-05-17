@@ -10,4 +10,7 @@
 - [[2022-05-17]]
   - kumar 1000
   - kamraj 1000
+- total 2000
+
+- Grand Total 6300
   
