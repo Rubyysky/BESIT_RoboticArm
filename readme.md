@@ -21,8 +21,8 @@ We've created a few Bubbles (Markdown documents) to get you started.
 6. Mohammed Sheeraz Meccai
 7. Mohammed Fawaz sheikh K
 8. Sudeep
-9. 9th Member name
-10. 10th Member name
+9. name
+10. name
 
 ---
 
