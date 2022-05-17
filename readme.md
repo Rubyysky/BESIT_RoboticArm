@@ -17,10 +17,10 @@ We've created a few Bubbles (Markdown documents) to get you started.
 2. Kumar
 3. Prajwal
 4. Varada
-5. Sunil
+5. Sunil Kumar
 6. Mohammed Sheeraz Meccai
 7. Mohammed Fawaz sheikh K
-8. Sudeep
+8. Sudeep S
 9. name
 10. name
 
