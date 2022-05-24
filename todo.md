@@ -8,5 +8,5 @@ steps to do
 - [ ] Test the [[mechanical structure]]
 - [ ] Develop a [[Control system]] based on [[ROS]]
 - [ ] Test the robot 
-- [ ] data for Report
+- [ ] [data for Report](data%20for%20Report/data%20for%20Report.md)
 - [ ] Report 
