@@ -21,8 +21,8 @@ We've created a few Bubbles (Markdown documents) to get you started.
 6. Mohammed Sheeraz Meccai
 7. Mohammed Fawaz sheikh K
 8. Sudeep S
-9. name
-10. name
+9. Suhail ahmed
+10. Sathya
 
 ---
 
