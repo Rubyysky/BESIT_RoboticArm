@@ -12,5 +12,10 @@
   - kamraj 1000
 - total 2000
 
-- Grand Total 6300
+- [2022-05-28](journal/2022-05-28.md)
+  - Sudeep 500
+- total 500
+
+
+- Grand Total 6800
   
