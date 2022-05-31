@@ -20,5 +20,11 @@
 - form __Town hall to hoskerhalli__ 1*20 = 20
 - ___Total___ = 1760+70 = 1,830
 ---
+
+## [2022-05-31](journal/2022-05-31.md)
+
+### For 3d-printed parts
+- 8 parts 4000
+---
 ## GrandTotal
- - 1900
+ - 5900

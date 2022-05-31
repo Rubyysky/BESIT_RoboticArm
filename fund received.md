@@ -16,6 +16,9 @@
   - Sudeep 500
 - total 500
 
+- [2022-05-31](journal/2022-05-31.md)
+  - Mohammed Fawaz sheikh 500
+  - Suhail ahmed 1000
 
-- Grand Total 6800
+### Grand Total 8300
   
