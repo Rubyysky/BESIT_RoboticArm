@@ -4,6 +4,6 @@
 - [ ] [review of literature](review%20of%20literature.md)
 - [ ] study area
 - [ ] Methodology
-- [ ] Design
+- [ ] [Design](../Design.md)
 - [ ] Fabrication
 

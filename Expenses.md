@@ -25,6 +25,7 @@
 
 ### For 3d-printed parts
 - 8 parts 4000
+- ![3d-parts](images/printed.parts01.jpg) ![3d-parts](images/printed.parts02.jpg)
 ---
 ## GrandTotal
  - 5900

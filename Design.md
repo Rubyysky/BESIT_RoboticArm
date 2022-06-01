@@ -12,4 +12,4 @@ we finalised the [Educative 6 Axis Robot Arm](Educative%206%20Axis%20Robot%20Arm
 - less number of parts
 - Small in size
 - prebuild control software ready to use
-- No need of any specific motors  
+- No need of any specific motors
