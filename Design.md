@@ -14,5 +14,5 @@ we finalised the [Educative 6 Axis Robot Arm](Educative%206%20Axis%20Robot%20Arm
 - prebuild control software ready to use
 - No need of any specialised motors like A4 robot 
 
-![alt](/images/webimg)
+![alt](/images/webimg.jpg)
 The DIY-Robotics educative cell is a platform that includes a 6-axis robotic arm, an electronic control circuit and a programming software. This platform is an introduction to the world of industrial robotics.Through this project, DIY-Robotics wishes to offer an affordable but quality solution to all those who would like to learn more about this fascinating field. This project is an excellent opportunity to develop various knowledge and skills in the fields of mechanics, electrical as well as computer science. With the DIYRobotics educative cell, robotics is within everyone's reach.has of now explaned above this is fablous project we have taken only the mechanical core of the project and modifing the electrical and to control useing the ROS software 
