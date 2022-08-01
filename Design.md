@@ -57,18 +57,14 @@ The DIY-Robotics educative cell is a platform that includes a 6-axis robotic arm
 
 ### COMPONENTS
 
-    Microcontroller
-
-        ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth
-
-![alt](https://asset.conrad.com/media10/isa/160267/c1/-/en/1656367_LB_00_FB/image.jpg)
-
-    Buck converter
-
-        LM2596 is a step-down voltage regulator, also known as buck convertor, mainly used to step down the voltage or to drive load under 3A. It carries the remarkable load and line regulation and is available in fixed output voltages including 3.3V, 5V, 12V. It also comes with a customized output version where you can set the output voltage as per your requirement.
-
-![alt](https://cdn11.bigcommerce.com/s-yo2n39m6g3/images/stencil/1280x1280/products/466/3407/lm2596-dc-dc-buck-converter__03171.1571733582.jpg?c=2?imbypass=on)
-
-    Power supply(60W) 
-        input: 240V 1.6A
-        output: 12V 5A
+    1. 3D printed links
+    2. Servos
+    3. Microcontroller
+    4. Switching Power supply
+    5. Buck Converters
+    6. Wires
+    7. Bord
+    8. M2 nut and bolts
+    9. jumper wires
+    10. power connect pin
+    11. ha
