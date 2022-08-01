@@ -1,5 +1,40 @@
 # Design
 
+## 3.1 OVERVIEW
+
+### ARTICULATED ROBOTIC ARM
+
+An articulated robot is a robot which is fitted with rotary joints. Rotary joints
+allow a full range of motion, as they rotate through multiple planes, and they increase the
+capabilities of the robot considerably. An articulated robot can have one or more rotary
+joints, and other types of joints may be used as well, depending on the design of the robot
+and its intended function.
+With rotary joints, a robot can engage in very precise movements. Articulated
+robots commonly show up on manufacturing lines, where they utilize their flexibility to
+bend in a variety of directions. Multiple arms can be used for greater control or to
+conduct multiple tasks at once, for example, and rotary joints allow robots to do things
+like turning back and forth between different work areas.
+These robots can also be seen at work in labs and in numerous other settings.
+Researchers developing robots often work with articulated robots when they want to
+engage in activities like teaching robots to walk and developing robotic arms. The joints
+in the robot can be programmed to interact with each other in addition to activating
+independently, allowing the robot to have an even higher degree of control. Many next
+generation robots are articulated because this allows for a high level of functionality.
+Articulated robots can have arms and legs which allow them to move and
+manipulate a wide variety of objects. Some are designed as console units with arms,
+where the unit remains in place in a fixed position and the arms are used to perform tasks.
+Others may wheel, slide, or move in other ways so that they can navigate spaces of
+varying sizes. In a medical lab, for example, an articulated robot might be used to deliver
+and carry samples around the lab.
+ 
+ The robotic arm is a vertical articulated robot, made of the following components:
+1. Six revolute joints
+2. Six links
+3. End gripper
+
+___
+### Our design
+
 We have found 4 interesting designs on web based on looks, size, and how easy it is to build.
 
 which are in detail in [opensouce projects](opensouce%20projects.md)
@@ -16,3 +51,24 @@ we finalised the [Educative 6 Axis Robot Arm](Educative%206%20Axis%20Robot%20Arm
 
 ![alt](/images/webimg.jpg)
 The DIY-Robotics educative cell is a platform that includes a 6-axis robotic arm, an electronic control circuit and a programming software. This platform is an introduction to the world of industrial robotics.Through this project, DIY-Robotics wishes to offer an affordable but quality solution to all those who would like to learn more about this fascinating field. This project is an excellent opportunity to develop various knowledge and skills in the fields of mechanics, electrical as well as computer science. With the DIYRobotics educative cell, robotics is within everyone's reach.has of now explaned above this is fablous project we have taken only the mechanical core of the project and modifing the electrical and to control useing the ROS software 
+
+### Mechanical
+
+
+### COMPONENTS
+
+    Microcontroller
+
+        ESP32 is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth
+
+![alt](https://asset.conrad.com/media10/isa/160267/c1/-/en/1656367_LB_00_FB/image.jpg)
+
+    Buck converter
+
+        LM2596 is a step-down voltage regulator, also known as buck convertor, mainly used to step down the voltage or to drive load under 3A. It carries the remarkable load and line regulation and is available in fixed output voltages including 3.3V, 5V, 12V. It also comes with a customized output version where you can set the output voltage as per your requirement.
+
+![alt](https://cdn11.bigcommerce.com/s-yo2n39m6g3/images/stencil/1280x1280/products/466/3407/lm2596-dc-dc-buck-converter__03171.1571733582.jpg?c=2?imbypass=on)
+
+    Power supply(60W) 
+        input: 240V 1.6A
+        output: 12V 5A
