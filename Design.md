@@ -57,14 +57,14 @@ The DIY-Robotics educative cell is a platform that includes a 6-axis robotic arm
 
 ### COMPONENTS
 
-    1. 3D printed links
-    2. Servos
-    3. Microcontroller
+    1. 3D printed parts      - 8 parts
+    2. Servos                - 2*MG90, 4* 
+    3. Microcontroller       - ESP32
     4. Switching Power supply
     5. Buck Converters
     6. Wires
-    7. Bord
-    8. M2 nut and bolts
+    7. Perfboard Bord
+    8. Nut and Bolts
     9. jumper wires
-    10. power connect pin
-    11. ha
+    10. power connect Pin
+    11. Pin headers
