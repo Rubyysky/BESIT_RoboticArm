@@ -4,15 +4,15 @@
 
 ## index
 
-- [journal](journal.md) - a place to write down quick notes to be categorized later, based on the date we worked on project
-- [Expenses](Expenses.md) - how much money is spent on project
-- [fund received](fund%20received.md) - how much money is collected to project
+- Report [text](/files/report/robotarm.pdf)
+- 
+- -
 - [Todo](todo.md) - what work need to done
 
 ## Team Members
 
-1. Kamraj
-2. Kumar
+1. Kamraj S
+2. Kumar S
 3. Prajwal
 4. Varada
 5. Sunil Kumar
