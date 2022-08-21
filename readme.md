@@ -4,9 +4,8 @@
 
 ## index
 
-- Report [text](/files/report/robotarm.pdf)
+- Report [report](https://)
 - 
-- -
 - [Todo](todo.md) - what work need to done
 
 ## Team Members
